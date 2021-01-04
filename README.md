@@ -3,7 +3,6 @@
 - 🔭 Currently working on improving my coding skills.
 - 🌱 Focused on learning Python &  React as of now.
 - 👯 Looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I like to play video games for fun.
 
 ### Connect with me:
