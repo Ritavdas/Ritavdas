@@ -1,9 +1,9 @@
 ### Hi there, I'm Ritav! 👋
-- 🧾 https://ritavdas.wixsite.com/mysite
-- 🔭 Currently working on improving my coding skills.
-- 🌱 Focused on learning Python &  React as of now.
-- 👯 Looking to collaborate with other content creators.
-- ⚡ Fun fact: I like to play video games for fun.
+- 🧾 Working as a FullStack Developer.
+- 🔭 Use Next Js , Python , PostgreSQL , GitHub almost everyday.
+- 🌱 Focused on reading some good books.
+- 👯 Looking to contribute to Open Source this year.
+- ⚡ Fun fact: I like to play video games for fun 
 
 ### Connect me:
 
